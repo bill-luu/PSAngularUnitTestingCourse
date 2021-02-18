@@ -9,7 +9,8 @@
     "start": "ng serve",
     "test": "ng test",
     "lint": "tslint ./src/**/*.ts -t verbose",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "gencode": "ng test --code-coverage"
   },
   "keywords": [],
   "author": "",
